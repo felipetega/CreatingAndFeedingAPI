@@ -1,7 +1,5 @@
 # CreatingAndFeedingAPI
 
-Este projeto cria uma API e a alimenta com dados
+Este projeto cria uma API e a alimenta com dados(JSON) de uma planilha do excel.
 
-Técnologias utilizadas: JavaScript, NodeJS, Express, JSON
-
-Fotos: Em Breve
+<img height="75" width="500" src="print.png">
